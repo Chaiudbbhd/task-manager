@@ -27,6 +27,7 @@ git clone https://github.com/Chaiudbbhd/task-manager.git
 cd task-manager
 
 # Step 3: Install the necessary dependencies.
+npm start
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
@@ -34,6 +35,8 @@ npx tailwindcss init -p
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+
+**Create a superbase account and get API key and modify the changes in configurations
 
 
 **Use GitHub Codespaces**
